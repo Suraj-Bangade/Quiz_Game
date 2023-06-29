@@ -6,7 +6,7 @@ import javax.swing.*;
 public class Quiz implements ActionListener {
     String[] questions = {
             "What is my name?",
-            "Who is the most handsome alive on this planet?",
+            "Who is the most handsome man alive on this planet?",
             "Who is the most beautiful girl in the world?",
             "Where does the smartest man on earth live?"
     };
